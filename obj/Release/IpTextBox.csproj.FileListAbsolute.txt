@@ -1,0 +1,7 @@
+E:\Documents\GitHub\IpTextBox\IpTextBox\bin\Release\IpTextBox.dll
+E:\Documents\GitHub\IpTextBox\IpTextBox\bin\Release\IpTextBox.pdb
+E:\Documents\GitHub\IpTextBox\IpTextBox\obj\Release\IpTextBox.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\IpTextBox\IpTextBox\obj\Release\IpTextBox.IpAddressTextBox.resources
+E:\Documents\GitHub\IpTextBox\IpTextBox\obj\Release\IpTextBox.csproj.GenerateResource.Cache
+E:\Documents\GitHub\IpTextBox\IpTextBox\obj\Release\IpTextBox.dll
+E:\Documents\GitHub\IpTextBox\IpTextBox\obj\Release\IpTextBox.pdb
